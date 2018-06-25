@@ -1,2 +1,2 @@
 # terminal-ex
-Example directory to use via command prompt during github tutorials
+Example directory to use via command prompt during github tutorials.
